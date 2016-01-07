@@ -1,4 +1,4 @@
-# [TeleSeed](https://telegram.me/TeleSeed) 
+# [Majnon](https://telegram.me/Mrmajnon) 
 **An advance and powerful Administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under [GNU General public License](https://github.com/SEEDTEAM/TeleSeed/blob/master/LICENSE)**
 # Features
 
@@ -25,7 +25,7 @@
 ### Group creation
 >/creategroup [group name]
 >
->>/creategroup SEED
+>>/creategroup MAJNON
 >>>will create a group
 >>>
 >>>_Only works in realms But sudo users can use it everywhere_
